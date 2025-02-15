@@ -36,7 +36,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/hand-gesture-recognition.git  
+git clone [https://github.com/divyani95/Hand_Gesture_Detection.git]  
 Navigate to the project directory:
 
 bash
